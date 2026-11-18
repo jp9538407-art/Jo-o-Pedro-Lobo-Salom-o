@@ -1,8 +1,35 @@
+
+<div align="center">
+
 # 👋 Olá! Eu sou João Pedro Lobo Salomão
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | Universidade Positivo
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Universidade Positivo, com interesse em tecnologia, inovação, inteligência artificial e desenvolvimento de soluções digitais.
+<img src="https://img.shields.io/badge/STATUS-EM%20BUSCA%20DE%20ESTÁGIO-28A745?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/CURSO-ANÁLISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS-333333?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SEMESTRE-2º%20SEMESTRE-007ACC?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/IDIOMA-PORTUGUÊS-009639?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/INGLÊS-BÁSICO-0066CC?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LOCALIZAÇÃO-CURITIBA%20PR-444444?style=for-the-badge" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/SEU-PERFIL/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:jp9538407@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 Atualmente, estou construindo minha base de conhecimentos em programação, desenvolvimento web e banco de dados. Busco minha primeira oportunidade profissional na área de **Tecnologia da Informação**, para adquirir experiência prática, aprender com profissionais experientes e evoluir na carreira.
 
