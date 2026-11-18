@@ -72,9 +72,9 @@ Conforme minha evolução, pretendo organizar e documentar meus projetos, demons
 
 ## 📫 Conecte-se comigo
 
-- 💼 **LinkedIn:** [Inserir link do LinkedIn]
-- 🎥 **YouTube:** [Inserir link do YouTube]
-- 📸 **Instagram profissional:** [Inserir link do Instagram]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/jo%C3%A3o-pedro-lobo-salomao-755b21341/]
+- 🎥 **YouTube:** [https://www.youtube.com/@Jo%C3%A3oPedroLoboSalom%C3%A3o]
+- 📸 **Instagram profissional:** [Estou no Instagram como @joaopedrolobosoftware. Instale o aplicativo para seguir minhas fotos e vídeos. https://www.instagram.com/joaopedrolobosoftware?gwpx=eDcyeGhtcmNobTlw&utm_source=ig_contact_invite]
 
 ---
 
